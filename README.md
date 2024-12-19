@@ -22,7 +22,11 @@ This project would greatly benefit from being ported to DDR3 memory. This would 
 Some more filters to potentially try:
 
 Squeeze
+
 Stretch
-Light Tunnel (good luck with this one)
+
+Light Tunnel (good luck)
+
 Thermal Camera
+
 Comic Book (or some kind of edge detection)
