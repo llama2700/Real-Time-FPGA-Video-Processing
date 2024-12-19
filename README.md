@@ -5,7 +5,7 @@ Digital Systems Laboratory Final Project
 Abhi Alavilli
 
 This project includes a full implementation of the OV7670 camera module on the Urbana FPGA as well as custom filters to display the output image via VGA/HDMI. Filters can be edited in pixel_compression.sv.
-A lot of modules are modified (to varying degrees) from this project: https://github.com/Tom-Zheng/OV7670_to_VGA_FPGA - Thanks!
+A lot of modules are modified (to varying degrees) from [this](https://github.com/Tom-Zheng/OV7670_to_VGA_FPGA) project - Thanks!
 
 ## Usage
 
